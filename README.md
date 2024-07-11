@@ -12,3 +12,5 @@ The data used for this project has been obtained from **The KITTI Vision Benchma
   ```
   ```
 
+The $data$ folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its oficial domain, in order to use its data it is advised to visit KITTIs oficial website.
+
