@@ -15,7 +15,7 @@ The data used for this project has been obtained from **The KITTI Vision Benchma
 ## Project description
 In this project we propose to explore the posibility of applying superresolution techniques to LiDAR data with the purpose of simulating higher quality sensors by artifitially adding pointcloud channels with deep learning. Different aproaches may be taken to process pointcloud data, in this case an image projection of the 3 dimensional space will be applied, turning this problem into a more developed image superresolution field.
 <p align="center">
-<img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/rotonda_etsisi.png" height="50" width="100">
+<img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/rotonda_etsisi.png" height="250" width="500">
 </p>
 State of the art neural network architectures will be studied, and the results of autoencoder and U-Net models will be compared with classical superresolution methods such as pointcloud interpolation. Furthermore, in order to achieve these goals we will assess how to visualize LiDAR pointclouds in a 2D image and the methodolody applied for a proper layer reduction of the data to simulate sensors with a lower quality.
 
