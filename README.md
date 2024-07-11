@@ -18,11 +18,11 @@ In this project we propose to explore the posibility of applying superresolution
 State of the art neural network architectures will be studied, and the results of autoencoder and U-Net models will be compared with classical superresolution methods such as pointcloud interpolation. Furthermore, in order to achieve these goals we will assess how to visualize LiDAR pointclouds in a 2D image and the methodolody applied for a proper layer reduction of the data to simulate sensors with a lower quality.
 
 <p align="center">
-  <img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/comparison3.png" height="475" width="1574">
+  <img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/comparison3.png" height="400" width="1300">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/comparison_kitti.png" height="475" width="1574">
+  <img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/comparison_kitti.png" height="400" width="1300">
 </p>
 
 
