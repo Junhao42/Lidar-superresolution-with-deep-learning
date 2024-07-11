@@ -17,6 +17,14 @@ In this project we propose to explore the posibility of applying superresolution
 
 State of the art neural network architectures will be studied, and the results of autoencoder and U-Net models will be compared with classical superresolution methods such as pointcloud interpolation. Furthermore, in order to achieve these goals we will assess how to visualize LiDAR pointclouds in a 2D image and the methodolody applied for a proper layer reduction of the data to simulate sensors with a lower quality.
 
+<p align="center">
+  <img src="https://github.com/Junhao42/Estudio-y-optimizacion-de-las-actuaciones-de-bomberos-de-la-comunidad-de-Madrid/blob/main/images/sarimax_final.jpg" height="800" width="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Junhao42/Estudio-y-optimizacion-de-las-actuaciones-de-bomberos-de-la-comunidad-de-Madrid/blob/main/images/sarimax_final.jpg" height="800" width="800">
+</p>
+
 
 ## Folders
 The ```data``` folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its oficial domain, in order to use its data it is advised to visit KITTIs oficial website.
