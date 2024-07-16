@@ -27,6 +27,8 @@ State of the art neural network architectures will be studied, and the results o
   <img src="https://github.com/Junhao42/Lidar-resolution-enhancement-with-machine-learning/blob/main/images/comparison_kitti.png" height="250" width="900">
 </p>
 
+The obtained results show that a successful quality increase can be achieved with up to 32 point cloud channels in an image representation. U-Net architectures are well suited for superresolution purposes and display better results than classical models but may require significant computational resources to obtain a sharp image.
+
 
 ## Folders
 The ```data``` folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its official domain, in order to use its data it is advised to visit KITTIs official website.
