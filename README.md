@@ -31,5 +31,6 @@ State of the art neural network architectures will be studied, and the results o
 ## Folders
 The ```data``` folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its oficial domain, in order to use its data it is advised to visit KITTIs oficial website.
 
+The ```notebook``` folder contains the code used in this project. They are divided in .ipynb notebooks and each one of them is dedicated to a specific process, but may share common functions for extracting, reading and managing LiDAR data.
 
 
