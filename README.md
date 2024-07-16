@@ -29,7 +29,7 @@ State of the art neural network architectures will be studied, and the results o
 
 
 ## Folders
-The ```data``` folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its oficial domain, in order to use its data it is advised to visit KITTIs oficial website.
+The ```data``` folder contains examples of point cloud data and images from the ETSISI dataset. Due to copyright related issues, KITTI data should not be uploaded outside of its official domain, in order to use its data it is advised to visit KITTIs official website.
 
 The ```notebook``` folder contains the code used in this project. They are divided in .ipynb notebooks and each one of them is dedicated to a specific process, but may share common functions for extracting, reading and managing LiDAR data.
 
@@ -39,5 +39,9 @@ The notebooks are divided by:
 - point cloud channels reduction
 - Last iterations for deep learning models applied to KITTI data
 - Last iterations for deep learning models applied to ETSISI data
+
+A copy of the project memory is also provided as a .pdf file ```"Superresolución_en_Sensores_LiDAR__Un_enfoque_desde_el_deep_learning"```
+
+
 
 
