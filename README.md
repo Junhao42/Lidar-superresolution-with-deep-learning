@@ -42,6 +42,22 @@ The notebooks are divided by:
 
 A copy of the project memory is also provided as a .pdf file ```"Superresolución_en_Sensores_LiDAR__Un_enfoque_desde_el_deep_learning"```
 
+## References
+
+To cite this project, you can use the following BibText entry:
+
+```latex
+@mastersthesis{citekey,
+title = {Superresolución en Sensores LiDAR: Un enfoque desde el deep learning},
+author = {Ge-Yang, J. y Díaz-Álvarez, A. y Sánchez-Gutierrez-Cabello, G.},
+school = {E.T.S. de Ingeniería de Sistemas Informáticos , Universidad Politécnica
+de Madrid},
+year = {2024},
+month = {7},
+type = {Proyecto Fin de Grado}
+}
+```
+
 
 
 
