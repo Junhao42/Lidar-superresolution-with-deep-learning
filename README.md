@@ -33,4 +33,11 @@ The ```data``` folder contains examples of point cloud data and images from the 
 
 The ```notebook``` folder contains the code used in this project. They are divided in .ipynb notebooks and each one of them is dedicated to a specific process, but may share common functions for extracting, reading and managing LiDAR data.
 
+The notebooks are divided by:
+- 3D to image proyection
+- Image data preprocessing for deep learning models
+- point cloud channels reduction
+- Last iterations for deep learning models applied to KITTI data
+- Last iterations for deep learning models applied to ETSISI data
+
 
